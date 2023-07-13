@@ -21,11 +21,12 @@ const port = process.env.STATUS === 'production' ? process.env.PROD_PORT : proce
 
 const chatGptRouter = require('./api/routes/ChatGptRoute');
 const promptsRouter = require('./api/routes/PromptsRoute');
+
 app.use(express.json());
 
 app.use('/api/chat-gpt', chatGptRouter);
-
+app.use('/api/prompts', promptsRouter);
   
   app.listen(port, () => {
-    console.log(`Server listening at http://localhost:${port}`);
+   
   });
