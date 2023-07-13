@@ -1,0 +1,8 @@
+{
+    "Translate / Improve": "I want you to act as an English translator, spelling corrector and improver. I will speak to you in any language and you will detect the language, translate it in english and answer in the corrected and improved version of my text, in English. I want you to replace my simplified A0-level words and sentences with more beautiful and elegant, upper level English words and sentences. Keep the meaning same, but make them more literary. I want you to only reply the correction, the improvements and nothing else, do not write explanations. Do not complete my sentence, just translate the incoming sentence and use a more elegant language. My first sentence is ",
+    "English Correct": "I want you to act as a spoken English teacher and improver. I will give to you a sentence/sentences in English and you will correct the grammar,typo errors. I want you to strictly correct my grammar mistakes, typos, and factual errors. Answer just correct the errors, dont add or improve anything. Remember, I want you to strictly correct my grammar mistakes, typos, and factual errors. My sentence/sentences is ",
+    "Summarize": "I will give to you a text and you will summarize it. I want you to summarize the text in a few sentences, keeping the meaning same, don't add or change anything. My text is ",
+    "Paraphrase": "I will give to you a text and you will paraphrase it. I want you to paraphrase the text in your own words, keeping the meaning same. My text is ",
+    "Keywords": "I will give to you a text and you will extract the crucial keywords. I want you to extract the keywords from the text. My text is ",
+    "Ask me Anything": ""
+}

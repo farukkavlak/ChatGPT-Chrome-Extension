@@ -1,0 +1,42 @@
+{
+  "name": "ChatGPT",
+  "description": "Chrome Extension that uses ChatGPT effectively",
+  "version": "0.0.1",
+  "manifest_version": 3,
+  "action": {
+    "default_title": "ChatGPT",
+    "default_popup": "index.html"
+  },
+  "host_permissions": [
+    "*://*/*",
+    "<all_urls>"
+  ],
+  "permissions": [
+    "scripting",
+    "contextMenus",
+    "activeTab",
+    "tabs"
+  ],
+  "content_scripts":[
+    {
+      "matches": ["*://*/*"],
+      "js": ["content.js"],
+      "all_frames": false
+    }
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "web_accessible_resources": [
+    {
+      "matches": ["*://*/*"],
+      "resources": ["copy.png"]
+    }
+  ],
+  "icons": {
+    "16": "gpt.png",
+    "48": "gpt.png",
+    "128": "gpt.png"
+  }
+
+}
