@@ -160,13 +160,13 @@ You can use the extension from the toolbar to view the results directly, or you 
 
 <div align="center">
   <a>
-    <img src="https://github.com/farukkavlak/Vocab-Learning-Chrome-Extension/blob/main/screenshots/usage-1.png" alt="usage-1">
+    https://github.com/farukkavlak/ChatGPT-Chrome-Extension/assets/79375232/7b10fe90-562f-4524-a170-2ce40b05059e
   </a>
 </div>
 <br>
 <div align="center">
   <a>
-    <img src="https://github.com/farukkavlak/Vocab-Learning-Chrome-Extension/blob/main/screenshots/usage-2.png" alt="usage-2">
+    https://github.com/farukkavlak/ChatGPT-Chrome-Extension/assets/79375232/e2f949e6-fff8-45ee-97ea-71de15ce9dc7
   </a>
 </div>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
