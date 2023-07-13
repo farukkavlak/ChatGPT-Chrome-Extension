@@ -12,7 +12,7 @@
   <p align="center">
     Chrome Extension that uses ChatGPT effectively/quickly
     <br>
-    <a href="#usage">Screenshots</a>
+    <a href="#usage">Demo</a>
     ·
     <a href="https://github.com/farukkavlak/Vocab-Learning-Chrome-Extension/issues">Report Bug</a>
     ·
