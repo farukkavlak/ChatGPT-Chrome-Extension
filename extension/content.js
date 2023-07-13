@@ -4,7 +4,7 @@ chrome.runtime.onMessage.addListener(function (request, sender, sendResponse) {
         document.getElementById("boxAlert").remove();
     }
 
-    const chatgptAPIUrl = "<YOUR API URL>";
+    const chatgptAPIUrl = "<YOUR_API_URL>";
     fetch(chatgptAPIUrl + request.input + "&choice=" + request.choice)
         .then(res => res.json())
         .then(json => {
@@ -23,6 +23,7 @@ chrome.runtime.onMessage.addListener(function (request, sender, sendResponse) {
                 alertBox.style.border = "1px solid #f5c6cb";
                 alertBox.style.padding = "0.75rem 1.25rem";
                 alertBox.style.zIndex = "99999999";
+                alertBox.style.color = "#000";
 
                 var buttonDiv = document.createElement("div");
                 buttonDiv.style.display = "flex";
@@ -38,6 +39,7 @@ chrome.runtime.onMessage.addListener(function (request, sender, sendResponse) {
                 closeButton.style.border = "none";
                 closeButton.style.padding = "0.25rem 0.5rem";
                 closeButton.style.marginRight = "0.5rem";
+                closeButton.style.color = "#000";
 
                 var copyButton = document.createElement("button");
                 copyButton.style.width = "25px";
