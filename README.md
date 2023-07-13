@@ -160,9 +160,16 @@ You can use the extension from the toolbar to view the results directly, or you 
 
 
 
-https://github.com/farukkavlak/ChatGPT-Chrome-Extension/assets/79375232/edd29606-8139-4d9e-af99-733837a5df29
 
-https://github.com/farukkavlak/ChatGPT-Chrome-Extension/assets/79375232/1fa8ac51-578f-42b6-b8e1-acb334a19fab
+https://github.com/farukkavlak/ChatGPT-Chrome-Extension/assets/79375232/44135247-c99f-4dde-ac95-8ae37753d590
+
+
+
+
+
+https://github.com/farukkavlak/ChatGPT-Chrome-Extension/assets/79375232/2d7fa5c0-9ea8-4913-a793-1165d2a31071
+
+
 
 
 
