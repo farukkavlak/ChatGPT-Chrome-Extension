@@ -133,7 +133,7 @@ To get a local copy up and running follow these simple example steps.
    ```
 7. Create .env.local file in next-app folder for environment variables and enter your URLS of endpoints
      ```js
-   NEXT_PUBLIC_PROMPTS_API_URL = http://localhost:3000//api/prompts
+   NEXT_PUBLIC_PROMPTS_API_URL = http://localhost:3000/api/prompts
    NEXT_PUBLIC_CHATGPT_API_URL = http://localhost:3000/api/chat-gpt
    
    ```
@@ -141,7 +141,13 @@ To get a local copy up and running follow these simple example steps.
     ```sh
    npm run build
    ```
-9. Load chrome extension from chrome://extensions/ by using extension folder
+9. Enter your server url to content.js file in extension folder
+    ```js
+   chatgptAPIUrl = "http://localhost:3000/api/chat-gpt?input=
+   NEXT_PUBLIC_CHATGPT_API_URL = http://localhost:3000/api/chat-gpt
+   
+   ```
+10. Load chrome extension from chrome://extensions/ by using extension folder
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
