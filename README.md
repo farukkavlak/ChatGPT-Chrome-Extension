@@ -158,17 +158,16 @@ To get a local copy up and running follow these simple example steps.
 ## Usage
 You can use the extension from the toolbar to view the results directly, or you can select text from any website, right-click, and choose the 'prompt'. The program will then provide an alert with the results.
 
-<div align="center">
-  <a>
-    https://github.com/farukkavlak/ChatGPT-Chrome-Extension/assets/79375232/7b10fe90-562f-4524-a170-2ce40b05059e
-  </a>
-</div>
-<br>
-<div align="center">
-  <a>
-    https://github.com/farukkavlak/ChatGPT-Chrome-Extension/assets/79375232/e2f949e6-fff8-45ee-97ea-71de15ce9dc7
-  </a>
-</div>
+
+
+https://github.com/farukkavlak/ChatGPT-Chrome-Extension/assets/79375232/edd29606-8139-4d9e-af99-733837a5df29
+
+https://github.com/farukkavlak/ChatGPT-Chrome-Extension/assets/79375232/1fa8ac51-578f-42b6-b8e1-acb334a19fab
+
+
+
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
